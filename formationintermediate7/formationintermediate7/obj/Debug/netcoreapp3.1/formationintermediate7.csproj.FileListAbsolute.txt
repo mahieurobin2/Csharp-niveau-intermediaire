@@ -1,0 +1,14 @@
+C:\Users\108745706\Desktop\formation C# intermediate\formationintermediate7\formationintermediate7\obj\Debug\netcoreapp3.1\formationintermediate7.csproj.AssemblyReference.cache
+C:\Users\108745706\Desktop\formation C# intermediate\formationintermediate7\formationintermediate7\obj\Debug\netcoreapp3.1\formationintermediate7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\108745706\Desktop\formation C# intermediate\formationintermediate7\formationintermediate7\obj\Debug\netcoreapp3.1\formationintermediate7.AssemblyInfoInputs.cache
+C:\Users\108745706\Desktop\formation C# intermediate\formationintermediate7\formationintermediate7\obj\Debug\netcoreapp3.1\formationintermediate7.AssemblyInfo.cs
+C:\Users\108745706\Desktop\formation C# intermediate\formationintermediate7\formationintermediate7\obj\Debug\netcoreapp3.1\formationintermediate7.csproj.CoreCompileInputs.cache
+C:\Users\108745706\Desktop\formation C# intermediate\formationintermediate7\formationintermediate7\bin\Debug\netcoreapp3.1\formationintermediate7.exe
+C:\Users\108745706\Desktop\formation C# intermediate\formationintermediate7\formationintermediate7\bin\Debug\netcoreapp3.1\formationintermediate7.deps.json
+C:\Users\108745706\Desktop\formation C# intermediate\formationintermediate7\formationintermediate7\bin\Debug\netcoreapp3.1\formationintermediate7.runtimeconfig.json
+C:\Users\108745706\Desktop\formation C# intermediate\formationintermediate7\formationintermediate7\bin\Debug\netcoreapp3.1\formationintermediate7.runtimeconfig.dev.json
+C:\Users\108745706\Desktop\formation C# intermediate\formationintermediate7\formationintermediate7\bin\Debug\netcoreapp3.1\formationintermediate7.dll
+C:\Users\108745706\Desktop\formation C# intermediate\formationintermediate7\formationintermediate7\bin\Debug\netcoreapp3.1\formationintermediate7.pdb
+C:\Users\108745706\Desktop\formation C# intermediate\formationintermediate7\formationintermediate7\obj\Debug\netcoreapp3.1\formationintermediate7.dll
+C:\Users\108745706\Desktop\formation C# intermediate\formationintermediate7\formationintermediate7\obj\Debug\netcoreapp3.1\formationintermediate7.pdb
+C:\Users\108745706\Desktop\formation C# intermediate\formationintermediate7\formationintermediate7\obj\Debug\netcoreapp3.1\formationintermediate7.genruntimeconfig.cache
