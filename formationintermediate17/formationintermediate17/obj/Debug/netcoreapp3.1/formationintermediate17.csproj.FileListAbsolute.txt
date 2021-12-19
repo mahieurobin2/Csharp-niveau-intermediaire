@@ -1,0 +1,5 @@
+C:\Users\108745706\Desktop\formation C# intermediate\formationintermediate17\formationintermediate17\obj\Debug\netcoreapp3.1\formationintermediate17.csproj.AssemblyReference.cache
+C:\Users\108745706\Desktop\formation C# intermediate\formationintermediate17\formationintermediate17\obj\Debug\netcoreapp3.1\formationintermediate17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\108745706\Desktop\formation C# intermediate\formationintermediate17\formationintermediate17\obj\Debug\netcoreapp3.1\formationintermediate17.AssemblyInfoInputs.cache
+C:\Users\108745706\Desktop\formation C# intermediate\formationintermediate17\formationintermediate17\obj\Debug\netcoreapp3.1\formationintermediate17.AssemblyInfo.cs
+C:\Users\108745706\Desktop\formation C# intermediate\formationintermediate17\formationintermediate17\obj\Debug\netcoreapp3.1\formationintermediate17.csproj.CoreCompileInputs.cache
