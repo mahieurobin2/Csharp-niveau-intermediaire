@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "formationintermediate4/1.0.0": {
+        "runtime": {
+          "formationintermediate4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "formationintermediate4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
